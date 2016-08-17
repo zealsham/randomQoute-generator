@@ -1,9 +1,13 @@
-<!Doctype html>
-<html>
-  <head>
-    <title>Random Qoutes</title>
-
-  </head>
-
-
-</html>
+.jumbo{
+  margin-top: 50px;
+  border-radius: 1px;
+  margin-bottom: 0px;
+}
+#authors{
+  float: right;
+}
+#nbtn{
+  float: right;
+  margin-top: 0px;
+  border-radius: 1px;
+}
